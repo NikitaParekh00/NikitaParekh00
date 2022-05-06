@@ -8,12 +8,12 @@
 
 </div>
 
-
 <h1 align="center">Hi 👋, I'm Nikita Parekh</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 📫 How to reach me **nikitaparekh00@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitaparekh00&label=Profile%20views&color=0e75b6&style=flat" alt="nikitaparekh00" /> </p>
 
+- 📫 How to reach me **nikitaparekh00@gmail.com**
 
 <p align="left">
 </p>
@@ -26,6 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitaparekh00&show_icons=true&locale=en" alt="nikitaparekh00" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitaparekh00&" alt="nikitaparekh00" /></p>
+
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
