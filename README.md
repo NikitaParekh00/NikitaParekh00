@@ -14,9 +14,7 @@ I'm a Tech-savvy and research-oriented web developer with an innate propensity f
 
 - 👯 I’m looking to collaborate on **Any interesting projects or ideas**
 
-- 👨‍💻 All of my projects are available at [https://nikitaparekh.com](https://nikitaparekh.com)
-
-- 💬 Ask me about **React**
+- 💬 Ask me about **NestJs**
 
 - 📫 How to reach me **nikitaparekh00@gmail.com**
 
