@@ -18,7 +18,7 @@ I'm a Tech-savvy and research-oriented web developer with an innate propensity f
 
 - 📫 How to reach me **nikitaparekh00@gmail.com**
 
-- 📄 Know about my experiences [Resume](shorturl.at/rJLOZ)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10su-nqOp5srYYkplyxYsDabUqdtxxY7U/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
